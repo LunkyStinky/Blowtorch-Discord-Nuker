@@ -4,7 +4,7 @@
 
 # Blowtorch: Discord Server Nuker
 
-![<img src="images/banner.png">]
+!<img src="images/banner.png">
 
 ## 📥 Download the Latest Version
 
